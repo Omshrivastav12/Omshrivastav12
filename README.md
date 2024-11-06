@@ -2,6 +2,13 @@
 <h3 align="center">Data Science & AI Enthusiast | Bringing Ideas to Life through Code</h3>
 
 <p align="center">
+  <em>"Language is the road map of a culture. It tells you where its people come from and where they are going." – Rita Mae Brown</em>
+</p>
+<p align="center">
+  <strong>"Transforming data into knowledge, one word at a time."</strong>
+</p>
+
+<p align="center">
   <img src="https://media1.tenor.com/images/7pyDepP8SOQAAAAC/cat-wif.gif" width="250" alt="Coding GIF"/>
 </p>
 
@@ -12,17 +19,19 @@
 - Exploring **Generative AI** and **Data Engineering tools** to boost my expertise!
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Project GIF"/>
+  <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" width="200" alt="Project GIF"/>
 </p>
+
 
 ---
 
 ### 🌐 About Me
 - 🎓 Master’s Student in **Data Science** | IIT Roorkee  
 - 🧑‍🏫 **Teaching Assistant** for courses like Data Science & Mathematics for AI  
-- 🤖 Passionate about applying **ML, NLP,** and **DL** to solve real-world problems
+- 🤖 Passionate about applying **ML, NLP,** and **DL** to solve real-world problems  
 - 📫 **Contact:** omshrivastav1005@gmail.com  
-- 📄 [View My Resume](https://drive.google.com/file/d/1XCOzyuzzUZrhoAYyfTlSNUpWOIi3Yl10/view?usp=sharing)
+- ✨ Ready to explore new opportunities? Take a peek at my journey and the skills I've honed: [Here it is](https://drive.google.com/file/d/1XCOzyuzzUZrhoAYyfTlSNUpWOIi3Yl10/view?usp=sharing)
+
 
 ---
 
