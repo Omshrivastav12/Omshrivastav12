@@ -28,10 +28,14 @@
 
 ### 📬 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/om-shrivastav" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30"/></a>
+  <a href="https://www.linkedin.com/in/om-shrivastav-a76983233" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30"/>
+</a>
   <a href="https://kaggle.com/omsubhashshrivastav" target="_blank"><img src="https://img.icons8.com/windows/50/000000/kaggle.png" height="30"/></a>
   <a href="https://fb.com/om-shrivastav" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" height="30"/></a>
-  <a href="https://instagram.com/__om_shrivastav" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="30"/></a>
+  <a href="https://www.instagram.com/__om_shrivastav/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="30"/>
+</a>
   <a href="https://www.hackerrank.com/omshrivastav1005" target="_blank"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png" height="30"/></a>
   <a href="https://www.leetcode.com/omshrivastav" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="30"/></a>
   <a href="https://auth.geeksforgeeks.org/user/omshrivass1vn" target="_blank"><img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" height="30"/></a>
