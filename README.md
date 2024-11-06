@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://your-gif-url-here.gif" width="300" alt="Logo Animation"/>
+</p>
 <h1 align="center">Hey there, I'm Om Shrivastav 👋</h1>
 <h3 align="center">Data Science & AI Enthusiast | Bringing Ideas to Life through Code</h3>
 
