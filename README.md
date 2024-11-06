@@ -31,7 +31,6 @@
 - 🧑‍🏫 **Teaching Assistant** for courses like Data Science & Mathematics for AI  
 - 🤖 Passionate about applying **ML, NLP,** and **DL** to solve real-world problems  
 - 📫 **Contact:** omshrivastav1005@gmail.com  
-- ✨ Ready to explore new opportunities? Take a peek at my journey and the skills I've honed: [Here it is](https://drive.google.com/file/d/1XCOzyuzzUZrhoAYyfTlSNUpWOIi3Yl10/view?usp=sharing)
 
 
 ---
