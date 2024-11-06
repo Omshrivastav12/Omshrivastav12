@@ -1,64 +1,83 @@
-<h1 align="center">Hi 👋, I'm Om Shrivastav</h1>
-<h3 align="center">A passionate Data Science/Artificial Intelligence Engineer from India, Maharastra</h3>
+<h1 align="center">Hey there, I'm Om Shrivastav 👋</h1>
+<h3 align="center">Data Science & AI Enthusiast | Bringing Ideas to Life through Code</h3>
 
-<p align="right"> <img src="https://media1.tenor.com/m/7pyDepP8SOQAAAAC/cat-wif.gif" width="350" alt="Coding GIF"/> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omshrivastav12&label=Profile%20views&color=0e75b6&style=flat" alt="omshrivastav12" /> </p>
-
-- 🔭 I’m currently working on **Video Future Frame Forecasting At IIT ROORKEE**
-
-- 🌱 I’m currently learning **Generative AI, Data Engineering tools**
-
-- 👨‍💻 All of my projects are available at **GitHub**: [Omshrivastav12 repositories](https://github.com/Omshrivastav12?tab=repositories)
-
-- 📫 How to reach me: **omshrivastav1005@gmail.com**
-
-- 📄 Know about my experiences: **Resume**: [Link to my resume](https://drive.google.com/file/d/1XCOzyuzzUZrhoAYyfTlSNUpWOIi3Yl10/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/om shrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://kaggle.com/omsubhashshrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://fb.com/om shrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/__om_shrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@omshrivastav1005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omshrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/omshrivass1vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Geeks for Geeks" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media1.tenor.com/images/7pyDepP8SOQAAAAC/cat-wif.gif" width="250" alt="Coding GIF"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  </a> 
+---
+
+### 🔭 Currently Working On
+- **Video Future Frame Forecasting** | IIT Roorkee  
+- Exploring **Generative AI** and **Data Engineering tools** to boost my expertise!
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Project GIF"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omshrivastav12&show_icons=true&locale=en&layout=compact" alt="omshrivastav12" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omshrivastav12&show_icons=true&locale=en" alt="omshrivastav12" /></p>
+### 🌐 About Me
+- 🎓 Master’s Student in **Data Science** | IIT Roorkee  
+- 🧑‍🏫 **Teaching Assistant** for courses like Data Science & Mathematics for AI  
+- 🤖 Passionate about applying **ML, NLP,** and **DL** to solve real-world problems
+- 📫 **Contact:** omshrivastav1005@gmail.com  
+- 📄 [View My Resume](https://drive.google.com/file/d/1XCOzyuzzUZrhoAYyfTlSNUpWOIi3Yl10/view?usp=sharing)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omshrivastav12&" alt="omshrivastav12" /></p>
+---
+
+### 📬 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/om-shrivastav" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30"/></a>
+  <a href="https://kaggle.com/omsubhashshrivastav" target="_blank"><img src="https://img.icons8.com/windows/50/000000/kaggle.png" height="30"/></a>
+  <a href="https://fb.com/om-shrivastav" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" height="30"/></a>
+  <a href="https://instagram.com/__om_shrivastav" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="30"/></a>
+  <a href="https://www.hackerrank.com/omshrivastav1005" target="_blank"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png" height="30"/></a>
+  <a href="https://www.leetcode.com/omshrivastav" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="30"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/omshrivass1vn" target="_blank"><img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" height="30"/></a>
+</p>
+
+---
+
+### 💼 Projects & Highlights
+- **RAG-Based Chatbot** using LLM for intelligent responses  
+- **Product Recommendation System** with Sentiment Analysis  
+- **Time Series Forecasting** | Stock Price Prediction  
+- 🎉 **Achievements**: **AIR-13** In GATE-23, currently Serving **PIC of IITR** as **Department Placement Representative** 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufcYAkf3d57XvXq/giphy.gif" width="200" alt="Achievement GIF"/>
+</p>
+
+---
+
+### 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" height="30"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omshrivastav12&show_icons=true&theme=merko" width="400" alt="Om's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omshrivastav12&theme=merko" width="400" alt="Om's GitHub Streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omshrivastav12&layout=compact&theme=merko" width="400" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omshrivastav12&theme=merko" width="400" alt="Profile Summary Card" />
+</p>
+
+---
+
+<p align="center">
+  🌟 <strong>Happy Recommending! 🌟</strong>
+</p>
