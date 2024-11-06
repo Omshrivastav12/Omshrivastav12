@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Om Shrivastav</h1>
 <h3 align="center">A passionate Data Science/Artificial Intelligence Engineer from India, Maharastra</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy.gif?cid=ecf05e47aklxt5mrpwxhma8ukpoalyx9u59nrj7fp1cmti80&ep=v1_gifs_related&rid=giphy.gif&ct=g">
@@ -20,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/om shrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om shrivastav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/om-shrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om shrivastav" height="30" width="40" /></a>
 <a href="https://kaggle.com/omsubhashshrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omsubhashshrivastav" height="30" width="40" /></a>
-<a href="https://fb.com/om shrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="om shrivastav" height="30" width="40" /></a>
+<a href="https://fb.com/om-shrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="om shrivastav" height="30" width="40" /></a>
 <a href="https://instagram.com/__om_shrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__om_shrivastav" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@omshrivastav1005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@omshrivastav1005" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/omshrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omshrivastav" height="30" width="40" /></a>
