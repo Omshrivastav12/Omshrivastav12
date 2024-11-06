@@ -1,3 +1,4 @@
+![logo](https://github.com/Omshrivastav12/Omshrivastav12/blob/main/Screenshot%202024-11-06%20202011.png)
 <h1 align="center">Hey there, I'm Om Shrivastav 👋</h1>
 <h3 align="center">Data Science & AI Enthusiast | Bringing Ideas to Life through Code</h3>
 
