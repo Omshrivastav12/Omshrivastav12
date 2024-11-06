@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Shrivastav</h1>
 <h3 align="center">A passionate Data Science/Artificial Intelligence Engineer from India, Maharashtra</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy.gif?cid=ecf05e47aklxt5mrpwxhma8ukpoalyx9u59nrj7fp1cmti80&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/abc1234567890xyz/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omshrivastav12&label=Profile%20views&color=0e75b6&style=flat" alt="omshrivastav12" /> </p>
 
